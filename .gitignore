@@ -1,0 +1,15 @@
+node_modules/
+.nyc_output/
+coverage/
+translations/
+*.log
+build
+config.json
+
+# Editor specific stuff
+.vscode/
+.idea/
+.vs/
+
+# git related files
+*.orig
