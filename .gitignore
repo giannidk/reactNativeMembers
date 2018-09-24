@@ -1,10 +1,6 @@
 node_modules/
-.nyc_output/
-coverage/
-translations/
-*.log
+.expo/
 build
-config.json
 
 # Editor specific stuff
 .vscode/
